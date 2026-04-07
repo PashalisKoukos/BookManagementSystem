@@ -6,7 +6,6 @@
 
 
 // Koukos Paschalis
-// AM: it2024041
 
 #include "books.h" // περιλαμβανει κεφαλιδες κι declarations
 #include <stdio.h> 
