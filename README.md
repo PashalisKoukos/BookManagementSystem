@@ -21,3 +21,4 @@ A robust, terminal-based library management system developed as part of the **Pr
 2. Compile the project:
    ```bash
    gcc main.c books.c -o library_system
+   ./library_system
